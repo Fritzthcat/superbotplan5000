@@ -4,7 +4,7 @@
 
     Pre-process the data: Pre-process the messages to prepare them for analysis. This could include cleaning the text, converting it to lowercase, removing stop words, and stemming or lemmatizing the words.
 
-    Analyze the posts: Use NLP techniques to analyze the posts and extract information such as the sentiment of the posts, the intensity of the mentions of the coins and tokens, and the number of posts about each coin and token.
+Analyze the posts: Use NLP techniques to analyze the posts and extract information such as the sentiment of the posts, the intensity of the mentions of the coins and tokens, and the number of posts about each coin and token.
 
     Train a machine learning model: Use the information extracted from the posts to train a machine learning model that predicts the price movement of the coins and tokens. This could be a classification model that predicts whether the price of the coin or token is likely to go up, down, or remain neutral.
 
