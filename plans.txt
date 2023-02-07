@@ -10,6 +10,6 @@ Analyze the posts: Use NLP techniques to analyze the posts and extract informati
 
     Assign a price movement indicator: Based on the predictions of the machine learning model, assign a price movement indicator to each coin and token.
 
-    Check the accuracy of the indicator: Over time, compare the actual movement of the coins and tokens to the price movement indicators assigned by the bot. If the bot's predictions are inaccurate, adjust the metrics used to calculate the indicators or retrain the machine learning model using new data.
+    Check the accuracy of the indica tor: Over time, compare the actual movement of the coins and tokens to the price movement indicators assigned by the bot. If the bot's predictions are inaccurate, adjust the metrics used to calculate the indicators or retrain the machine learning model using new data.
 
     Store and visualize the data: Store the extracted metrics, indicators, and any other relevant information in a database or file. Use data visualization techniques to display the data in an easily understandable format. This can help you keep track of the performance of the bot and identify any trends or patterns in the data.
